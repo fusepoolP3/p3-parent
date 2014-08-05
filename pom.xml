@@ -126,4 +126,20 @@
             </build>
         </profile>
     </profiles>
+    <developers>
+        <developer>
+            <id>reto</id>
+            <name>Reto Gmür</name>
+            <email>reto@apache.ch</email>
+            <url>http://wymiwyg.com/</url>
+            <organization>Bern University of Applied Sciences</organization>
+            <organizationUrl>http://ti.bfh.ch</organizationUrl>
+            <roles>
+                <role>technical coordinator</role>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
+            <timezone>Europe/Paris</timezone>
+        </developer>
+    </developers>
 </project>
